@@ -1,2 +1,3 @@
 Python learning
-i am trying to understand github and git
+here i am improving my python skill 
+
